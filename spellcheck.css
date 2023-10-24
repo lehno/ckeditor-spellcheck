@@ -1,0 +1,10 @@
+.spellcheck {
+  text-decoration: underline;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+}
+
+.ck-spellcheck-dropdown {
+  display: flex;
+  flex-direction: column;
+}
